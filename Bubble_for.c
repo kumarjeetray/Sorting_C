@@ -1,3 +1,4 @@
+/* It sorts the array in ascending order */
 #include<stdio.h>
  
 void main()
