@@ -1,4 +1,4 @@
-/* It sorts the numbers in descending order */
+/* It Bubble sorts the numbers in descending order */
 #include<stdio.h>
  
 void main()
